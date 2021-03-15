@@ -3,10 +3,10 @@ This repository demonstrates use of AWS javascript SDK to create, manage and ope
 
 It has following modules:
 
-    Create and Manage EC2 Instances
-    Deploy an Auto Scaling Strategy
-    Create and Manage S3
-    Create, Populate, and Query a DynamoDB table using the AWS CLI
-    Create and Deploy an API Gateway
-    Configure an Amazon S3 Static Website
-    Send Notifications with AWS SNS
+    1) Create and Manage EC2 Instances
+    2) Deploy an Auto Scaling Strategy
+    3) Create and Manage S3
+    4) Create, Populate, and Query a DynamoDB table using the AWS CLI
+    5) Create and Deploy an API Gateway
+    6) Configure an Amazon S3 Static Website
+    7) Send Notifications with AWS SNS
