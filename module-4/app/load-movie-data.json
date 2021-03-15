@@ -1,0 +1,186 @@
+{
+    "MovieCollection": [
+        {
+            "DeleteRequest": {
+                "Key": {
+                    "ReleasedYear": { "N": "2013"},
+                    "MovieTitle": {"S": "Thor: The Dark World"}
+                }    
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2013"},
+                    "MovieTitle": {"S": "Rush"},
+                    "rating": {"N": "8.3"},
+                    "plot": {"S": "A re-creation of the merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda."},
+                    "rank": {"N": "12"},
+                    "running_time_secs": {"N": "7380"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2013"},
+                    "MovieTitle": {"S": "The Wolf of Wall Street"},
+                    "rating": {"N": "8.2"},
+                    "rank": {"N": "13"},
+                    "running_time_min": {"N": "180"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1995"},
+                    "MovieTitle": {"S": "The Shawshank Redemption"},
+                    "rating": {"N": "9.3"},
+                    "rank": {"N": "1"},
+                    "running_time_min": {"N": "142"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1972"},
+                    "MovieTitle": {"S": "The Godfather"},
+                    "rating": {"N": "9.2"},
+                    "rank": {"N": "2"},
+                    "running_time_min": {"N": "175"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1974"},
+                    "MovieTitle": {"S": "The Godfather: Part II"},
+                    "rating": {"N": "9.0"},
+                    "rank": {"N": "3"},
+                    "running_time_min": {"N": "202"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2008"},
+                    "MovieTitle": {"S": "The Dark Knight"},
+                    "rating": {"N": "9.0"},
+                    "rank": {"N": "4"},
+                    "running_time_min": {"N": "152"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2008"},
+                    "MovieTitle": {"S": "Twilight"},
+                    "rating": {"N": "5.2"},
+                    "running_time_min": {"N": "122"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2008"},
+                    "MovieTitle": {"S": "Iron Man"},
+                    "rating": {"N": "7.9"},
+                    "running_time_min": {"N": "126"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2008"},
+                    "MovieTitle": {"S": "The Curious Case of Benjamin Button"},
+                    "rating": {"N": "7.8"},
+                    "running_time_min": {"N": "166"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1957"},
+                    "MovieTitle": {"S": "12 Angry Men"},
+                    "rating": {"N": "8.9"},
+                    "rank": {"N": "5"},
+                    "running_time_min": {"N": "96"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1993"},
+                    "MovieTitle": {"S": "Schindler's List"},
+                    "rating": {"N": "8.9"},
+                    "rank": {"N": "6"},
+                    "running_time_min": {"N": "195"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2003"},
+                    "MovieTitle": {"S": "The Lord of the Rings: The Return of the King"},
+                    "rating": {"N": "8.9"},
+                    "rank": {"N": "7"},
+                    "running_time_min": {"N": "201"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1994"},
+                    "MovieTitle": {"S": "Pulp Fiction"},
+                    "rating": {"N": "8.9"},
+                    "rank": {"N": "8"},
+                    "running_time_min": {"N": "154"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1966"},
+                    "MovieTitle": {"S": "The Good, the Bad and the Ugly"},
+                    "rating": {"N": "8.8"},
+                    "rank": {"N": "9"},
+                    "running_time_min": {"N": "161"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "2001"},
+                    "MovieTitle": {"S": "The Lord of the Rings: The Fellowship of the Ring"},
+                    "rating": {"N": "8.8"},
+                    "rank": {"N": "10"},
+                    "running_time_min": {"N": "178"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ReleasedYear": { "N": "1999"},
+                    "MovieTitle": {"S": "Fight Club"},
+                    "rating": {"N": "8.8"},
+                    "rank": {"N": "11"},
+                    "running_time_min": {"N": "139"}
+                }
+            }
+        }
+    ]
+}

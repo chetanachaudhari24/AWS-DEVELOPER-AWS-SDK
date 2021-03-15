@@ -1,0 +1,105 @@
+[
+    {
+        "BookCategory": "History",
+        "BookTitle": "Book #1",
+        "Price": 50,
+        "Rating": 4.5,
+        "ISBN": "1100-1212111144311",
+        "Authors": [ "John Doe"],
+        "Dimensions": "9.5 x 11.0 x 0.5",
+        "PageCount": 600
+    },
+    {
+        "BookCategory": "Fiction",
+        "BookTitle": "Book #2",
+        "Price": 55,
+        "Rating": 4.0,
+        "ISBN": "454-544524554522",
+        "Authors": [ "Tim Cook",  "Jim Smith" ],
+        "Dimensions": "8.5 x 12.0 x 0.8",
+        "PageCount": 300
+    },
+    {
+        "BookCategory": "Science",
+        "BookTitle": "Book #3",
+        "Price": 35,
+        "Rating": 3.0,
+        "ISBN": "4421-555521555",
+        "Authors": [ "John Doe", "Jim Smith"],
+        "Dimensions": "9 x 11.0 x 1.5",
+        "PageCount": 700
+    },
+    {
+        "BookCategory": "Fiction",
+        "BookTitle": "Book #4",
+        "Price": 34,
+        "Rating": 2.5,
+        "Description": "Book 4 is a great book.",
+        "ISBN": "3321-333213312",
+        "Authors": [ "Tim Doe", "Jane Smith" ],
+        "Dimensions": "9.5 x 11.0 x 1.5",
+        "PageCount": 650
+    },
+    {
+        "BookCategory": "Science",
+        "BookTitle": "Book #6",
+        "Price": 85,
+        "Rating": 4.5,
+        "Description": "Book 6 is an awesome book.",
+        "ISBN": "444-231122234566",
+        "Authors": ["Tim Donald", "June Smith"],
+        "Dimensions": "10 x 11.0 x 1.5",
+        "PageCount": "540"
+    },
+    {
+        "BookCategory": "Comedy",
+        "BookTitle": "Book #5",
+        "Price": 99,
+        "Rating": 4.5,
+        "Description": "Book 5 is a great book.",
+        "ISBN": "33344-32143531212",
+        "Authors": ["Tim Doe", "Jane Cook"],
+        "Dimensions": "9.5 x 11.0 x 1.5",
+        "PageCount": 600
+    },
+    {
+        "BookCategory": "Comedy",
+        "BookTitle": "Book #7",
+        "Price": 98,
+        "Rating": 3.5,
+        "ISBN": "898-7869884565",
+        "Authors": [ "Tom Hanks", "Jane Doe"],
+        "Dimensions": "10.5 x 11.0 x 1.5",
+        "PageCount": 550
+    },
+    {
+        "BookCategory": "Comedy",
+        "BookTitle": "Book #8",
+        "Price": 44,
+        "Rating": 2.5,
+        "ISBN": "8777-3344554775",
+        "Authors": [ "Tom Doe", "Jane Smith"],
+        "Dimensions": "7.5 x 11.0 x 1.5",
+        "PageCount": 578
+    },
+    {
+        "BookCategory": "Health & Wellness",
+        "BookTitle": "Book #9",
+        "Price": 34,
+        "Rating": 3.5,
+        "ISBN": "898-334324254775",
+        "Authors": [ "Tom Smith", "Graham Smith"],
+        "Dimensions": "9.5 x 11.0 x 1.5",
+        "PageCount": 578
+    },
+    {
+        "BookCategory": "Action",
+        "BookTitle": "Book #10",
+        "Price": 100,
+        "Rating": 4.6,
+        "ISBN": "8721-3342112529995",
+        "Authors": [ "Tom Smith", "Jane Cruise"],
+        "Dimensions": "9.0 x 11.0 x 1.5",
+        "PageCount": 800
+    }
+]
